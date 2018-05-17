@@ -10,4 +10,9 @@
         android:layout_height="match_parent"
         android:id="@+id/textView1"
         android:gravity="center" />
+    <ImageView
+        android:src="@Resources/images/2cars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView1" />
 </LinearLayout>

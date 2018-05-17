@@ -3,6 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>android_8_nexus5x_test</SelectedDevice>
     <DefaultDevice>android_8_nexus5x_test</DefaultDevice>
-    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredDevice>Nexus 5X</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
