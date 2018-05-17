@@ -14,7 +14,7 @@ namespace DrawerApp
     [Activity(Label = "@string/app_name", MainLauncher = true, LaunchMode = LaunchMode.SingleTop, Icon = "@drawable/Icon")]
     public class MainActivity : AppCompatActivity
     {
-
+        //test comment
         DrawerLayout drawerLayout;
         NavigationView navigationView;
 
@@ -64,7 +64,7 @@ namespace DrawerApp
             };
 
 
-            //if first time you will want to go ahead and click first item.
+            //if first time you will want to go ahead and click the first item.
             if (savedInstanceState == null)
             {
                 navigationView.SetCheckedItem(Resource.Id.nav_home_1);
