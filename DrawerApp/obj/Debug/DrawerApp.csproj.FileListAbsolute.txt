@@ -110,7 +110,6 @@ C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerAp
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\uploadflags.txt
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\DrawerApp.dll.mdb
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\android\assets\DrawerApp.dll.mdb
-C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\DrawerApp.dll
 bin\Debug\Mono.Android.pdb
 bin\Debug\mscorlib.pdb
 bin\Debug\System.Core.pdb
