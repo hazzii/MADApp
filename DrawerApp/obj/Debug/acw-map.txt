@@ -1,19 +1,19 @@
-com.xamarin.sample.splashscreen.SplashActivity, DrawerApp;md53b23c9f8f2ff616494662e631f410311.SplashActivity
-com.xamarin.sample.splashscreen.SplashActivity, DrawerApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53b23c9f8f2ff616494662e631f410311.SplashActivity
-com.xamarin.sample.splashscreen.SplashActivity;md53b23c9f8f2ff616494662e631f410311.SplashActivity
-com.xamarin.sample.splashscreen.SplashActivity;md53b23c9f8f2ff616494662e631f410311.SplashActivity
-DrawerApp.MainActivity, DrawerApp;md589951ebabf588c955885b35f8f51c25f.MainActivity
-DrawerApp.MainActivity, DrawerApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md589951ebabf588c955885b35f8f51c25f.MainActivity
-DrawerApp.MainActivity;md589951ebabf588c955885b35f8f51c25f.MainActivity
-drawerapp.MainActivity;md589951ebabf588c955885b35f8f51c25f.MainActivity
-DrawerApp.Fragments.Fragment1, DrawerApp;md5d89231d6bd0fed35cc379d157e0c07d9.Fragment1
-DrawerApp.Fragments.Fragment1, DrawerApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d89231d6bd0fed35cc379d157e0c07d9.Fragment1
-DrawerApp.Fragments.Fragment1;md5d89231d6bd0fed35cc379d157e0c07d9.Fragment1
-drawerapp.fragments.Fragment1;md5d89231d6bd0fed35cc379d157e0c07d9.Fragment1
-DrawerApp.Fragments.Fragment2, DrawerApp;md5d89231d6bd0fed35cc379d157e0c07d9.Fragment2
-DrawerApp.Fragments.Fragment2, DrawerApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d89231d6bd0fed35cc379d157e0c07d9.Fragment2
-DrawerApp.Fragments.Fragment2;md5d89231d6bd0fed35cc379d157e0c07d9.Fragment2
-drawerapp.fragments.Fragment2;md5d89231d6bd0fed35cc379d157e0c07d9.Fragment2
+com.xamarin.sample.splashscreen.SplashActivity, Petrolhead;md533ece902f5092003cc43619778b6d1dd.SplashActivity
+com.xamarin.sample.splashscreen.SplashActivity, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533ece902f5092003cc43619778b6d1dd.SplashActivity
+com.xamarin.sample.splashscreen.SplashActivity;md533ece902f5092003cc43619778b6d1dd.SplashActivity
+com.xamarin.sample.splashscreen.SplashActivity;md533ece902f5092003cc43619778b6d1dd.SplashActivity
+DrawerApp.MainActivity, Petrolhead;md5f7c0ed135cfd0081fb37c09deafa9f68.MainActivity
+DrawerApp.MainActivity, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f7c0ed135cfd0081fb37c09deafa9f68.MainActivity
+DrawerApp.MainActivity;md5f7c0ed135cfd0081fb37c09deafa9f68.MainActivity
+drawerapp.MainActivity;md5f7c0ed135cfd0081fb37c09deafa9f68.MainActivity
+DrawerApp.Fragments.Fragment1, Petrolhead;md527c16c9c4e2c1b1295fcb37166071946.Fragment1
+DrawerApp.Fragments.Fragment1, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md527c16c9c4e2c1b1295fcb37166071946.Fragment1
+DrawerApp.Fragments.Fragment1;md527c16c9c4e2c1b1295fcb37166071946.Fragment1
+drawerapp.fragments.Fragment1;md527c16c9c4e2c1b1295fcb37166071946.Fragment1
+DrawerApp.Fragments.Fragment2, Petrolhead;md527c16c9c4e2c1b1295fcb37166071946.Fragment2
+DrawerApp.Fragments.Fragment2, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md527c16c9c4e2c1b1295fcb37166071946.Fragment2
+DrawerApp.Fragments.Fragment2;md527c16c9c4e2c1b1295fcb37166071946.Fragment2
+drawerapp.fragments.Fragment2;md527c16c9c4e2c1b1295fcb37166071946.Fragment2
 Android.Support.V4.Widget.SearchViewCompat/IOnCloseListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat+IOnCloseListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat.IOnCloseListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor

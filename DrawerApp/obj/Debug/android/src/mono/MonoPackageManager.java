@@ -105,8 +105,8 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		/* We need to ensure that "DrawerApp.dll" comes first in this list. */
-		"DrawerApp.dll",
+		/* We need to ensure that "Petrolhead.dll" comes first in this list. */
+		"Petrolhead.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Annotations.dll",
 		"Xamarin.Android.Support.Compat.dll",
