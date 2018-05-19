@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>19/05/2018 15:46:24</xs:documentation>
+    <xs:documentation>19/05/2018 16:56:19</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -658,6 +658,7 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -3832,6 +3833,7 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -7720,6 +7722,7 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -10099,6 +10102,7 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -10528,6 +10532,7 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -11362,6 +11367,7 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -11791,6 +11797,7 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -13346,6 +13353,7 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -15631,6 +15639,7 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -20626,6 +20635,7 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />

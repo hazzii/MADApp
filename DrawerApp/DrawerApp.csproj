@@ -98,6 +98,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Fragments\Fragment3.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Fragments\Fragment1.cs" />
     <Compile Include="Fragments\Fragment2.cs" />
@@ -121,6 +122,9 @@
     <AndroidResource Include="Resources\layout\main.axml" />
     <AndroidResource Include="Resources\layout\nav_header.axml">
       <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\fragment3.axml">
+      <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
   <ItemGroup>
