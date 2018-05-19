@@ -29,6 +29,12 @@
     -->
   </style>
 
+  <style name="MyTheme.Splash" parent ="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowBackground">@drawable/splash_screen</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowFullscreen">true</item>
+  </style>
+
   <style name="Theme.MyTheme.ActionBar" parent="style/Widget.AppCompat.Light.ActionBar.Solid">
     <!-- remove shadow below action bar -->
     <!-- <item name="android:elevation">0dp</item> -->

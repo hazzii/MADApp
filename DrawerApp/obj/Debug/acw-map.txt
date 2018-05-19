@@ -1,3 +1,7 @@
+com.xamarin.sample.splashscreen.SplashActivity, DrawerApp;md53b23c9f8f2ff616494662e631f410311.SplashActivity
+com.xamarin.sample.splashscreen.SplashActivity, DrawerApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53b23c9f8f2ff616494662e631f410311.SplashActivity
+com.xamarin.sample.splashscreen.SplashActivity;md53b23c9f8f2ff616494662e631f410311.SplashActivity
+com.xamarin.sample.splashscreen.SplashActivity;md53b23c9f8f2ff616494662e631f410311.SplashActivity
 DrawerApp.MainActivity, DrawerApp;md589951ebabf588c955885b35f8f51c25f.MainActivity
 DrawerApp.MainActivity, DrawerApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md589951ebabf588c955885b35f8f51c25f.MainActivity
 DrawerApp.MainActivity;md589951ebabf588c955885b35f8f51c25f.MainActivity

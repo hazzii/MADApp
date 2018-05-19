@@ -54,6 +54,7 @@ C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\DrawerApp\obj\D
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\DrawerApp\obj\Debug\uploadflags.txt
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\DrawerApp\bin\Debug\DrawerApp.dll.mdb
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\DrawerApp\obj\Debug\android\assets\DrawerApp.dll.mdb
+C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\DrawerApp.csprojResolveAssemblyReference.cache
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\DrawerApp.dll
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\DrawerApp.pdb
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\com.company.DrawerApp.apk
@@ -67,10 +68,10 @@ C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerAp
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Xamarin.Android.Support.Fragment.dll
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Xamarin.Android.Support.v4.dll
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
-C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\DrawerApp.csprojResolveAssemblyReference.cache
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\DrawerApp.csproj.CoreCompileInputs.cache
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\DrawerApp.dll
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\DrawerApp.pdb
@@ -106,10 +107,11 @@ C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerAp
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\drawable-mdpi\ic_menu.png
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\drawable-xhdpi\ic_menu.png
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\drawable\splash_logo.png
+C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\drawable\splash_screen.xml
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\R.cs.flag
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\uploadflags.txt
-C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\DrawerApp.dll.mdb
-C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\android\assets\DrawerApp.dll.mdb
+C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\DrawerApp.dll
 bin\Debug\Mono.Android.pdb
 bin\Debug\mscorlib.pdb
 bin\Debug\System.Core.pdb

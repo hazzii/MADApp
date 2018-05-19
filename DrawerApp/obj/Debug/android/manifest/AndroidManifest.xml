@@ -5,12 +5,13 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="@string/app_name" android:icon="@drawable/icon" android:theme="@style/Theme.MyTheme" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
-    <activity android:icon="@drawable/icon" android:label="@string/app_name" android:launchMode="singleTop" android:name="md589951ebabf588c955885b35f8f51c25f.MainActivity">
+    <activity android:noHistory="true" android:theme="@style/MyTheme.Splash" android:name="md53b23c9f8f2ff616494662e631f410311.SplashActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:icon="@drawable/icon" android:label="@string/app_name" android:launchMode="singleTop" android:name="md589951ebabf588c955885b35f8f51c25f.MainActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.company.DrawerApp.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
