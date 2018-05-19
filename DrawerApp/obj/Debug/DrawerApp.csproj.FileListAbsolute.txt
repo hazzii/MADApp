@@ -111,12 +111,13 @@ C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerAp
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\drawable\splash_screen.xml
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\R.cs.flag
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\uploadflags.txt
-C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\DrawerApp.dll
+C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\DrawerApp.dll.mdb
+C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\android\assets\DrawerApp.dll.mdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.Xml.pdb
 bin\Debug\Mono.Android.pdb
 bin\Debug\mscorlib.pdb
-bin\Debug\System.Core.pdb
 bin\Debug\System.pdb
-bin\Debug\System.Xml.pdb
 bin\Debug\System.Xml.Linq.pdb
 bin\Debug\System.Net.Http.pdb
 bin\Debug\System.Runtime.Serialization.pdb
@@ -126,9 +127,7 @@ bin\Debug\System.ComponentModel.Composition.pdb
 obj\Debug\linksrc\DrawerApp.dll.mdb
 obj\Debug\linksrc\Mono.Android.pdb
 obj\Debug\linksrc\mscorlib.pdb
-obj\Debug\linksrc\System.Core.pdb
 obj\Debug\linksrc\System.pdb
-obj\Debug\linksrc\System.Xml.pdb
 obj\Debug\linksrc\System.Xml.Linq.pdb
 obj\Debug\linksrc\System.Net.Http.pdb
 obj\Debug\linksrc\System.Runtime.Serialization.pdb
