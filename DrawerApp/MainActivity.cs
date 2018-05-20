@@ -85,6 +85,7 @@ namespace DrawerApp
 
             oldPosition = position;
 
+            // Switches between Menu Items - Fragments, add more cases when adding Layouts.
             Android.Support.V4.App.Fragment fragment = null;
             switch (position)
             {

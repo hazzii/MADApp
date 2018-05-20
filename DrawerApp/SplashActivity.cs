@@ -8,6 +8,7 @@ using DrawerApp;
 
 namespace com.xamarin.sample.splashscreen
 {
+    // Making this the MainLauncher so the app 'boots' into this screen first.
     [Activity(Theme = "@style/MyTheme.Splash", MainLauncher = true, NoHistory = true)]
     public class SplashActivity : AppCompatActivity
     {
