@@ -4,7 +4,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
     <TextView
-        android:text="Welcome to Petrolhead, the app for motoring enthusiasts. Swipe left to see our features."
+        android:text="Welcome to Petrolhead, the app for motoring enthusiasts. \n Swipe from the left to see our features."
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
