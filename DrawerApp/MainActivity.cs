@@ -41,7 +41,7 @@ namespace DrawerApp
             txtPassword = FindViewById<EditText>(Resource.Id.txtPassword);
 
             buttonLogin.Click += ButtonLogin_Click;
-            buttonRegister.Click += ButonRegister_Click;
+            buttonRegister.Click += ButtonRegister_Click;
 
             CreateDB();
 
@@ -97,7 +97,7 @@ namespace DrawerApp
             }
         }
 
-        private void ButonRegister_Click(object sender, EventArgs e)
+        private void ButtonRegister_Click(object sender, EventArgs e)
         {
             StartActivity(typeof(RegisterActivity));
         }
