@@ -99,9 +99,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Fragments\Fragment3.cs" />
+    <Compile Include="LoginTable.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Fragments\Fragment1.cs" />
     <Compile Include="Fragments\Fragment2.cs" />
+    <Compile Include="RegisterActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SplashActivity.cs" />
@@ -109,6 +111,9 @@
     <Compile Include="SQLiteAsync.cs" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidResource Include="Resources\layout\login.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
@@ -126,6 +131,9 @@
       <SubType>AndroidResource</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\fragment3.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\new_user.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
@@ -178,7 +186,6 @@
   <Target Name="AfterBuild">
   </Target>
   -->
-  <ItemGroup />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
       <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
