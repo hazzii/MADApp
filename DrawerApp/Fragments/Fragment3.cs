@@ -1,6 +1,15 @@
-﻿using Android.Support.V4.App;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using Android.App;
+using Android.Content;
 using Android.OS;
+using Android.Runtime;
+using Android.Util;
 using Android.Views;
+using Android.Widget;
 
 namespace DrawerApp.Fragments
 {
@@ -13,16 +22,12 @@ namespace DrawerApp.Fragments
             // Create your fragment here
         }
 
-        public static Fragment3 NewInstance()
-        {
-            var frag3 = new Fragment3 { Arguments = new Bundle() };
-            return frag3;
-        }
-
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
-            var ignored = base.OnCreateView(inflater, container, savedInstanceState);
-            return inflater.Inflate(Resource.Layout.fragment2, null);
+            // Use this to return your custom view for this Fragment
+            // return inflater.Inflate(Resource.Layout.YourFragment, container, false);
+
+            return base.OnCreateView(inflater, container, savedInstanceState);
         }
     }
 }

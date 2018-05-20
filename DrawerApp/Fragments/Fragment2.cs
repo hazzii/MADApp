@@ -1,5 +1,5 @@
-using Android.OS;
 using Android.Support.V4.App;
+using Android.OS;
 using Android.Views;
 
 namespace DrawerApp.Fragments
@@ -18,7 +18,6 @@ namespace DrawerApp.Fragments
             var frag2 = new Fragment2 { Arguments = new Bundle() };
             return frag2;
         }
-
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
