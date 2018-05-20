@@ -2496,6 +2496,9 @@ namespace DrawerApp
 			// aapt resource value: 0x7f0700a1
 			public const int nav_home_2 = 2131165345;
 			
+			// aapt resource value: 0x7f0700a2
+			public const int nav_home_3 = 2131165346;
+			
 			// aapt resource value: 0x7f070086
 			public const int nav_view = 2131165318;
 			

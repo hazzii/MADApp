@@ -2794,6 +2794,7 @@ containing a value of this type.
         public static final int multiply=0x7f070019;
         public static final int nav_home_1=0x7f0700a0;
         public static final int nav_home_2=0x7f0700a1;
+        public static final int nav_home_3=0x7f0700a2;
         public static final int nav_view=0x7f070086;
         public static final int navigation_header_container=0x7f07007b;
         public static final int never=0x7f070026;
