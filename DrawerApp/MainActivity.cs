@@ -57,6 +57,9 @@ namespace DrawerApp
                     case Resource.Id.nav_home_2:
                         ListItemClicked(1);
                         break;
+                    case Resource.Id.nav_home_3:
+                        ListItemClicked(2);
+                        break;
                 }
 
 
@@ -89,6 +92,9 @@ namespace DrawerApp
                     break;
                 case 1:
                     fragment = Fragment2.NewInstance();
+                    break;
+                case 2:
+                    fragment = Fragment3.NewInstance();
                     break;
             }
 
