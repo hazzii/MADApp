@@ -25,6 +25,7 @@ namespace DrawerApp.Fragments
         {
             //No setContentView because we're using a Fragment. https://stackoverflow.com/questions/12108370/how-to-setcontentview-in-a-fragment
             //Issues implementing this because I do not know how to fully use fragments, meaning none of the Text or Buttons work due to FindViews.
+            //https://forums.xamarin.com/discussion/14724/fragments-and-tabs-getting-findviewbyid-does-not-exist
 
             // Get the latitude/longitude EditBox and button resources:
             EditText latitude = FindViewById<EditText>(Resource.Id.latText);
