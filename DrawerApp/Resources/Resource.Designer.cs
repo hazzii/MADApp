@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("DrawerApp.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("Petrolhead.Resource", IsApplication=true)]
 
-namespace DrawerApp
+namespace Petrolhead
 {
 	
 	
