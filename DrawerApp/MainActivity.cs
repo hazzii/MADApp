@@ -8,7 +8,6 @@ using DrawerApp.Fragments;
 using Android.Support.V7.App;
 using Android.Support.V4.View;
 using Android.Support.Design.Widget;
-using Petrolhead;
 
 using Android.Widget;
 using System;
@@ -20,10 +19,6 @@ namespace DrawerApp
     [Activity(Label = "@string/app_name", LaunchMode = LaunchMode.SingleTop, Icon = "@drawable/Icon")]
     public class MainActivity : AppCompatActivity
     {
-        private EditText txtUsername;
-        private EditText txtPassword;
-        private Button buttonRegister;
-        private Button buttonLogin;
 
         //test comment
         DrawerLayout drawerLayout;
@@ -35,15 +30,6 @@ namespace DrawerApp
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.main);
 
-            buttonRegister = FindViewById<Button>(Resource.Id.buttonRegister);
-            buttonLogin = FindViewById<Button>(Resource.Id.buttonLogin);
-            txtUsername = FindViewById<EditText>(Resource.Id.txtUsername);
-            txtPassword = FindViewById<EditText>(Resource.Id.txtPassword);
-
-            buttonLogin.Click += ButtonLogin_Click;
-            buttonRegister.Click += ButtonRegister_Click;
-
-            CreateDB();
 
             var toolbar = FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbar);
             if (toolbar != null)
@@ -88,7 +74,6 @@ namespace DrawerApp
                 drawerLayout.CloseDrawers();
             };
 
-
             //if first time you will want to go ahead and click the first item.
             if (savedInstanceState == null)
             {
@@ -96,51 +81,6 @@ namespace DrawerApp
                 ListItemClicked(0);
             }
         }
-
-        private void ButtonRegister_Click(object sender, EventArgs e)
-        {
-            StartActivity(typeof(RegisterActivity));
-        }
-
-        private void ButtonLogin_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                string dbPath = Path.Combine(System.Environment.GetFolderPath(
-                    System.Environment.SpecialFolder.Personal
-                ), "user.db3");
-                var conn = new SQLiteConnection(dbPath);
-                var data = conn.Table<LoginTable>();
-
-                var loginRecord = data.Where(x => x.username == txtUsername.Text && x.password == txtPassword.Text)
-                    .FirstOrDefault();
-                if (loginRecord != null)
-                {
-                    Toast.MakeText(this, "Login Success!", ToastLength.Short).Show();
-                }
-                else
-                {
-                    Toast.MakeText(this, "Username or Password incorrect", ToastLength.Short).Show();
-                }
-            }
-            catch (Exception exception)
-            {
-                Toast.MakeText(this, exception.ToString(), ToastLength.Short).Show();
-            }
-        }
-
-        public string CreateDB()
-        {
-            var output = "";
-            output += "Creating Database if is does not exist";
-            string dbPath = Path.Combine(System.Environment.GetFolderPath(
-                System.Environment.SpecialFolder.Personal
-            ), "user.db3");
-            var conn = new SQLiteConnection(dbPath);
-            output += "\n Database Created...";
-            return output;
-        }
-
 
         int oldPosition = -1;
         private void ListItemClicked(int position)
