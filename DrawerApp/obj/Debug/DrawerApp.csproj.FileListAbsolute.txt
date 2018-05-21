@@ -54,7 +54,6 @@ C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\DrawerApp\obj\D
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\DrawerApp\obj\Debug\uploadflags.txt
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\DrawerApp\bin\Debug\DrawerApp.dll.mdb
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\DrawerApp\obj\Debug\android\assets\DrawerApp.dll.mdb
-C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\DrawerApp.csprojResolveAssemblyReference.cache
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\com.company.DrawerApp.apk
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\com.company.DrawerApp-Signed.apk
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
@@ -107,15 +106,15 @@ C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerAp
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\drawable\splash_screen.xml
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\R.cs.flag
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\uploadflags.txt
-C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\DrawerApp.dll.mdb
-C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\android\assets\DrawerApp.dll.mdb
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Petrolhead.dll
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Petrolhead.pdb
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\Petrolhead.dll
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\Petrolhead.pdb
+C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\layout\fragment3.xml
+C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\layout\login.xml
+C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\layout\new_user.xml
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Petrolhead.dll.mdb
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\android\assets\Petrolhead.dll.mdb
-C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\layout\fragment3.xml
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Petrolhead.dll
 bin\Debug\Mono.Android.pdb
 bin\Debug\mscorlib.pdb

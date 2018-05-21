@@ -6,7 +6,7 @@ using Android.Support.V7.App;
 using Android.Util;
 using DrawerApp;
 
-namespace com.xamarin.sample.splashscreen
+namespace DrawerApp
 {
     // Making this the MainLauncher so the app 'boots' into this screen first.
     [Activity(Theme = "@style/MyTheme.Splash", MainLauncher = true, NoHistory = true)]
@@ -37,7 +37,7 @@ namespace com.xamarin.sample.splashscreen
             Log.Debug(TAG, "Performing some startup work that takes a bit of time.");
             await Task.Delay(8000); // Simulate a bit of startup work.
             Log.Debug(TAG, "Startup work is finished - starting MainActivity.");
-            StartActivity(new Intent(Application.Context, typeof(MainActivity)));
+            StartActivity(new Intent(Application.Context, typeof(LoginActivity)));
         }
     }
 }

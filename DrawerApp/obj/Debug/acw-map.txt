@@ -1,11 +1,19 @@
-com.xamarin.sample.splashscreen.SplashActivity, Petrolhead;md533ece902f5092003cc43619778b6d1dd.SplashActivity
-com.xamarin.sample.splashscreen.SplashActivity, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533ece902f5092003cc43619778b6d1dd.SplashActivity
-com.xamarin.sample.splashscreen.SplashActivity;md533ece902f5092003cc43619778b6d1dd.SplashActivity
-com.xamarin.sample.splashscreen.SplashActivity;md533ece902f5092003cc43619778b6d1dd.SplashActivity
+DrawerApp.LoginActivity, Petrolhead;md5f7c0ed135cfd0081fb37c09deafa9f68.LoginActivity
+DrawerApp.LoginActivity, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f7c0ed135cfd0081fb37c09deafa9f68.LoginActivity
+DrawerApp.LoginActivity;md5f7c0ed135cfd0081fb37c09deafa9f68.LoginActivity
+drawerapp.LoginActivity;md5f7c0ed135cfd0081fb37c09deafa9f68.LoginActivity
 DrawerApp.MainActivity, Petrolhead;md5f7c0ed135cfd0081fb37c09deafa9f68.MainActivity
 DrawerApp.MainActivity, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f7c0ed135cfd0081fb37c09deafa9f68.MainActivity
 DrawerApp.MainActivity;md5f7c0ed135cfd0081fb37c09deafa9f68.MainActivity
 drawerapp.MainActivity;md5f7c0ed135cfd0081fb37c09deafa9f68.MainActivity
+DrawerApp.RegisterActivity, Petrolhead;md5f7c0ed135cfd0081fb37c09deafa9f68.RegisterActivity
+DrawerApp.RegisterActivity, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f7c0ed135cfd0081fb37c09deafa9f68.RegisterActivity
+DrawerApp.RegisterActivity;md5f7c0ed135cfd0081fb37c09deafa9f68.RegisterActivity
+drawerapp.RegisterActivity;md5f7c0ed135cfd0081fb37c09deafa9f68.RegisterActivity
+DrawerApp.SplashActivity, Petrolhead;md5f7c0ed135cfd0081fb37c09deafa9f68.SplashActivity
+DrawerApp.SplashActivity, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f7c0ed135cfd0081fb37c09deafa9f68.SplashActivity
+DrawerApp.SplashActivity;md5f7c0ed135cfd0081fb37c09deafa9f68.SplashActivity
+drawerapp.SplashActivity;md5f7c0ed135cfd0081fb37c09deafa9f68.SplashActivity
 DrawerApp.Fragments.Fragment3, Petrolhead;md527c16c9c4e2c1b1295fcb37166071946.Fragment3
 DrawerApp.Fragments.Fragment3, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md527c16c9c4e2c1b1295fcb37166071946.Fragment3
 DrawerApp.Fragments.Fragment3;md527c16c9c4e2c1b1295fcb37166071946.Fragment3

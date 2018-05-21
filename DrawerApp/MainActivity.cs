@@ -8,13 +8,18 @@ using DrawerApp.Fragments;
 using Android.Support.V7.App;
 using Android.Support.V4.View;
 using Android.Support.Design.Widget;
-using Petrolhead;
+
+using Android.Widget;
+using System;
+using System.IO;
+using SQLite;
 
 namespace DrawerApp
 {
     [Activity(Label = "@string/app_name", LaunchMode = LaunchMode.SingleTop, Icon = "@drawable/Icon")]
     public class MainActivity : AppCompatActivity
     {
+
         //test comment
         DrawerLayout drawerLayout;
         NavigationView navigationView;
@@ -24,6 +29,8 @@ namespace DrawerApp
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.main);
+
+
             var toolbar = FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbar);
             if (toolbar != null)
             {
@@ -66,7 +73,6 @@ namespace DrawerApp
 
                 drawerLayout.CloseDrawers();
             };
-
 
             //if first time you will want to go ahead and click the first item.
             if (savedInstanceState == null)

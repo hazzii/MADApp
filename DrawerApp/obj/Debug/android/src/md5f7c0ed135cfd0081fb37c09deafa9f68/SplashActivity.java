@@ -1,4 +1,4 @@
-package md53b23c9f8f2ff616494662e631f410311;
+package md5f7c0ed135cfd0081fb37c09deafa9f68;
 
 
 public class SplashActivity
@@ -14,7 +14,7 @@ public class SplashActivity
 			"n_onResume:()V:GetOnResumeHandler\n" +
 			"n_onBackPressed:()V:GetOnBackPressedHandler\n" +
 			"";
-		mono.android.Runtime.register ("com.xamarin.sample.splashscreen.SplashActivity, DrawerApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", SplashActivity.class, __md_methods);
+		mono.android.Runtime.register ("DrawerApp.SplashActivity, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", SplashActivity.class, __md_methods);
 	}
 
 
@@ -22,7 +22,7 @@ public class SplashActivity
 	{
 		super ();
 		if (getClass () == SplashActivity.class)
-			mono.android.TypeManager.Activate ("com.xamarin.sample.splashscreen.SplashActivity, DrawerApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("DrawerApp.SplashActivity, Petrolhead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 
