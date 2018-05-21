@@ -11,7 +11,7 @@
 
 [assembly: global::Android.Runtime.ResourceDesignerAttribute("Petrolhead.Resource", IsApplication=true)]
 
-namespace Petrolhead
+namespace DrawerApp
 {
 	
 	
