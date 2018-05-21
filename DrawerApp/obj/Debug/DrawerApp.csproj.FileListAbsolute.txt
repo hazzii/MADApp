@@ -116,6 +116,7 @@ C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerAp
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Petrolhead.dll.mdb
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\android\assets\Petrolhead.dll.mdb
 C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\obj\Debug\res\layout\fragment3.xml
+C:\Users\Hasnain\Documents\Visual Studio 2017\Projects\DrawerApp\MADApp\DrawerApp\bin\Debug\Petrolhead.dll
 bin\Debug\Mono.Android.pdb
 bin\Debug\mscorlib.pdb
 bin\Debug\System.Core.pdb
